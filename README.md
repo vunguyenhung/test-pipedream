@@ -1,0 +1,1 @@
+# Test should emit event
